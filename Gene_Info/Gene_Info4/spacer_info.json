@@ -1,0 +1,4195 @@
+[
+  {
+    "Gene": "gpmA",
+    "spacer": "GTGACGTTCGTTCAGTTTCC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GTGACGTTCGTTCAGTTTCCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3208372495950503,
+      "Chari_score": 0.3748601854417262,
+      "Housden_score": 0.2575757575757576
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "CAGTTTCCAGGATTTCTCAA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CAGTTTCCAGGATTTCTCAACGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5211060919948332,
+      "Chari_score": 0.5214730743508407,
+      "Housden_score": 0.3484848484848484
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "AGTTTCCAGGATTTCTCAAC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "AGTTTCCAGGATTTCTCAACGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5943667908117684,
+      "Chari_score": 0.3491781256527614,
+      "Housden_score": 0.893939393939394
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GTTCGTCCAGCACATTCCAC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GTTCGTCCAGCACATTCCACAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4517199234411978,
+      "Chari_score": 0.6441443332149285,
+      "Housden_score": 0.1515151515151515
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "TTCGTCCAGCACATTCCACA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "TTCGTCCAGCACATTCCACAGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4072887717423027,
+      "Chari_score": 0.6249015219722605,
+      "Housden_score": 0.9696969696969698
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "CCAGCACATTCCACAGGGTA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CCAGCACATTCCACAGGGTATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6322463401111126,
+      "Chari_score": 0.4736505195639076,
+      "Housden_score": 0.1363636363636363
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "CAGATCCACGTCGTACCAAC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CAGATCCACGTCGTACCAACCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6077084869132111,
+      "Chari_score": 0.5284019914378608,
+      "Housden_score": 0.6363636363636365
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "CGTCGTACCAACCGGTGAAA",
+    "free energy": -2.7,
+    "off-target": [
+      {
+        "target-sequence": "CGTCGTACCAACCGGTGAAACGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4656271485259702,
+      "Chari_score": 0.4321734408057666,
+      "Housden_score": 0.3636363636363637
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GCATTGCTGTTGCTTCGTCG",
+    "free energy": -1.9,
+    "off-target": [
+      {
+        "target-sequence": "GCATTGCTGTTGCTTCGTCGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5814060006380989,
+      "Chari_score": 0.6076698771606553,
+      "Housden_score": 0.5151515151515152
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "TATCATTAAAAGATGATTTG",
+    "free energy": -2.9,
+    "off-target": [
+      {
+        "target-sequence": "TATCATTAAAAGATGATTTGAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2530002212205971,
+      "Chari_score": 0.6816834205075504,
+      "Housden_score": 0.5151515151515152
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "TGATTTGAGGAGTAAGTATA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "TGATTTGAGGAGTAAGTATATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6055675128114029,
+      "Chari_score": 0.3944088669099194,
+      "Housden_score": 0.3484848484848484
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GTATATGGCTGTAACTAAGC",
+    "free energy": -1.0,
+    "off-target": [
+      {
+        "target-sequence": "GTATATGGCTGTAACTAAGCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.1836321463555904,
+      "Chari_score": 0.4780778459030422,
+      "Housden_score": 0.2121212121212121
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GGCTGTAACTAAGCTGGTTC",
+    "free energy": -3.3,
+    "off-target": [
+      {
+        "target-sequence": "GGCTGTAACTAAGCTGGTTCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2434666830973093,
+      "Chari_score": 0.2966521691658467,
+      "Housden_score": 0.3787878787878788
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "AAGCTGGTTCTGGTTCGTCA",
+    "free energy": -0.3,
+    "off-target": [
+      {
+        "target-sequence": "AAGCTGGTTCTGGTTCGTCATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4162627435298524,
+      "Chari_score": 0.320398493400547,
+      "Housden_score": 0.7727272727272727
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "TTCGTCATGGCGAAAGTCAG",
+    "free energy": -3.1,
+    "off-target": [
+      {
+        "target-sequence": "TTCGTCATGGCGAAAGTCAGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7773724330772254,
+      "Chari_score": 0.5874371962121788,
+      "Housden_score": 0.3484848484848484
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "AACAAAGAAAACCGTTTCAC",
+    "free energy": -0.4,
+    "off-target": [
+      {
+        "target-sequence": "AACAAAGAAAACCGTTTCACCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5533738142770193,
+      "Chari_score": 0.4666057777796359,
+      "Housden_score": 0.1969696969696969
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "AAGAAAACCGTTTCACCGGT",
+    "free energy": -3.3,
+    "off-target": [
+      {
+        "target-sequence": "AAGAAAACCGTTTCACCGGTTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3822488482194436,
+      "Chari_score": 0.2945725185659615,
+      "Housden_score": 0.106060606060606
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "TTTCACCGGTTGGTACGACG",
+    "free energy": -1.7,
+    "off-target": [
+      {
+        "target-sequence": "TTTCACCGGTTGGTACGACGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4292064103388889,
+      "Chari_score": 0.6675675872877174,
+      "Housden_score": 0.7121212121212122
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GACGTGGATCTGTCTGAGAA",
+    "free energy": -2.1,
+    "off-target": [
+      {
+        "target-sequence": "GACGTGGATCTGTCTGAGAAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5610990680172087,
+      "Chari_score": 0.4486582260680684,
+      "Housden_score": 0.3181818181818181
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GTAAGCGAAGCAAAAGCAGC",
+    "free energy": -0.8,
+    "off-target": [
+      {
+        "target-sequence": "GTAAGCGAAGCAAAAGCAGCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.284384720355027,
+      "Chari_score": 0.7848924136642389,
+      "Housden_score": 0.2121212121212121
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "AGCAGGTAAGCTGCTGAAAG",
+    "free energy": -6.4,
+    "off-target": [
+      {
+        "target-sequence": "AGCAGGTAAGCTGCTGAAAGAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5873234518387065,
+      "Chari_score": 0.6151036225313258,
+      "Housden_score": 0.2424242424242423
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GGTAAGCTGCTGAAAGAGGA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GGTAAGCTGCTGAAAGAGGAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4150426029179324,
+      "Chari_score": 0.6822830504506275,
+      "Housden_score": 0.5151515151515152
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "AACGCGCTATCCATACCCTG",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "AACGCGCTATCCATACCCTGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5879753170919929,
+      "Chari_score": 0.8455769731424512,
+      "Housden_score": 0.4393939393939394
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "CCATACCCTGTGGAATGTGC",
+    "free energy": -3.0,
+    "off-target": [
+      {
+        "target-sequence": "CCATACCCTGTGGAATGTGCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2958352403872305,
+      "Chari_score": 0.2058706355739307,
+      "Housden_score": 0.1969696969696969
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GTGGAATGTGCTGGACGAAC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GTGGAATGTGCTGGACGAACTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6855015080547233,
+      "Chari_score": 0.322667530234662,
+      "Housden_score": 0.2121212121212121
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "TGTGCTGGACGAACTGGATC",
+    "free energy": -0.6,
+    "off-target": [
+      {
+        "target-sequence": "TGTGCTGGACGAACTGGATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3477910648568355,
+      "Chari_score": 0.5205767419875271,
+      "Housden_score": 0.5909090909090909
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "TGGACGAACTGGATCAGGCA",
+    "free energy": -0.4,
+    "off-target": [
+      {
+        "target-sequence": "TGGACGAACTGGATCAGGCATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6092967400429566,
+      "Chari_score": 0.5683252289076962,
+      "Housden_score": 0.4848484848484849
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "GGCTGCCCGTTGAGAAATCC",
+    "free energy": -0.1,
+    "off-target": [
+      {
+        "target-sequence": "GGCTGCCCGTTGAGAAATCCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.277930942808448,
+      "Chari_score": 0.2642284900896045,
+      "Housden_score": 0.303030303030303
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "AAACTGAACGAACGTCACTA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "AAACTGAACGAACGTCACTACGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3479796515067165,
+      "Chari_score": 0.7600283186892334,
+      "Housden_score": 0.0606060606060605
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "ACGTCACTACGGTGCGTTGC",
+    "free energy": -5.3,
+    "off-target": [
+      {
+        "target-sequence": "ACGTCACTACGGTGCGTTGCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4195603265786155,
+      "Chari_score": 0.3670950262214105,
+      "Housden_score": 0.5757575757575758
+    }
+  },
+  {
+    "Gene": "gpmA",
+    "spacer": "CGTCACTACGGTGCGTTGCA",
+    "free energy": -4.1,
+    "off-target": [
+      {
+        "target-sequence": "CGGCACTACGATCCGTTGCAGGG",
+        "HsuSupp_score": 8.899499730940362e-07,
+        "CropIT_score": 0.2368421052631578,
+        "CFD_score": 0.1932385710026331,
+        "CCTop_score": 0.5598175595461709
+      },
+      {
+        "target-sequence": "CGTCACTACGGTGCGTTGCAGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4792418932688894,
+      "Chari_score": 0.4952698385999939,
+      "Housden_score": 0.3939393939393939
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "TTCGTATTCCACGGTGGTTC",
+    "free energy": -0.8,
+    "off-target": [
+      {
+        "target-sequence": "TTCGTATTCCACGGTGGTTCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": "NaN",
+      "Chari_score": 0.0574147424258772,
+      "Housden_score": 0.6515151515151515
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "TGGTTCCGGTTCTACTGCTC",
+    "free energy": -0.5,
+    "off-target": [
+      {
+        "target-sequence": "TGGTTCCGGTTCTACTGCTCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7148655988304631,
+      "Chari_score": 0.2893831910249819,
+      "Housden_score": 0.4090909090909091
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "ATCAAAGACTCCGTAAGCTA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ATCAAAGACTCCGTAAGCTACGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.452685524574156,
+      "Chari_score": 0.5047866415931246,
+      "Housden_score": 0.4545454545454546
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "ACATCGATACCGATACCCAA",
+    "free energy": -2.1,
+    "off-target": [
+      {
+        "target-sequence": "ACATCGATACCGATACCCAATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4032083854513024,
+      "Chari_score": 0.7303706334030846,
+      "Housden_score": 0.6363636363636365
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CATCGATACCGATACCCAAT",
+    "free energy": -2.1,
+    "off-target": [
+      {
+        "target-sequence": "CATCGATACCGATACCCAATGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6311564021126389,
+      "Chari_score": 0.5243274718340741,
+      "Housden_score": 0.5454545454545454
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CCGATACCCAATGGGCAACC",
+    "free energy": -2.3,
+    "off-target": [
+      {
+        "target-sequence": "CCGATACCCAATGGGCAACCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3442270860583432,
+      "Chari_score": 0.3848612821210872,
+      "Housden_score": 0.4242424242424242
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CGATACCCAATGGGCAACCT",
+    "free energy": -2.3,
+    "off-target": [
+      {
+        "target-sequence": "CGATACCCAATGGGCAACCTGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5446071865242826,
+      "Chari_score": 0.425365049906147,
+      "Housden_score": 0.2727272727272727
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "ACCCAATGGGCAACCTGGGA",
+    "free energy": -6.7,
+    "off-target": [
+      {
+        "target-sequence": "ACCCAATGGGCAACCTGGGAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4473795726176501,
+      "Chari_score": 0.5677932051467388,
+      "Housden_score": 0.1212121212121211
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "AGCGAACGAAGCTTATCTGC",
+    "free energy": -1.4,
+    "off-target": [
+      {
+        "target-sequence": "AGCGAACGAAGCTTATCTGCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.193085009538391,
+      "Chari_score": 0.4265333712132603,
+      "Housden_score": 0.4090909090909091
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GCGAACGAAGCTTATCTGCA",
+    "free energy": -1.6,
+    "off-target": [
+      {
+        "target-sequence": "GCGAACGAAGCTTATCTGCAGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2236811648938413,
+      "Chari_score": 0.6599312939224506,
+      "Housden_score": 0.1212121212121211
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "AGCTTATCTGCAGGGTCAGC",
+    "free energy": -2.9,
+    "off-target": [
+      {
+        "target-sequence": "AGCTTATCTGCAGGGTCAGCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.1115539871001915,
+      "Chari_score": 0.3541503685694911,
+      "Housden_score": 0.2272727272727273
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GCTTATCTGCAGGGTCAGCT",
+    "free energy": -3.9,
+    "off-target": [
+      {
+        "target-sequence": "GCTTATCTGCAGGGTCAGCTGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.457673969528593,
+      "Chari_score": 0.5671809203760935,
+      "Housden_score": 0.7121212121212122
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GGTCAGCTGGGTAACCCGAA",
+    "free energy": -3.1,
+    "off-target": [
+      {
+        "target-sequence": "GGTCTGCTGACTAACCCGAAAGG",
+        "HsuSupp_score": 4.009017759165857e-07,
+        "CropIT_score": 0.5789473684210527,
+        "CFD_score": 0.1267418714117508,
+        "CCTop_score": 0.6428837973613186
+      },
+      {
+        "target-sequence": "GGTCAGCTGGGTAACCCGAAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7544986629665404,
+      "Chari_score": 0.7571984135777268,
+      "Housden_score": 0.4393939393939394
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "AATACTACGATCCGCGCGTA",
+    "free energy": -0.8,
+    "off-target": [
+      {
+        "target-sequence": "AATACTACGATCCGCGCGTATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.676964638688365,
+      "Chari_score": 0.5702545094104576,
+      "Housden_score": 0.3939393939393939
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CCGCGCGTATGGCTGCGTGC",
+    "free energy": -8.2,
+    "off-target": [
+      {
+        "target-sequence": "CCGCGCGTATGGCTGCGTGCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6647382603320451,
+      "Chari_score": 0.4123088087473204,
+      "Housden_score": 0.5909090909090909
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GACTTCGATGATCGCTCGTC",
+    "free energy": -2.6,
+    "off-target": [
+      {
+        "target-sequence": "GACTTCGATGATCGCTCGTCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4701931348544582,
+      "Chari_score": 0.3801770944203945,
+      "Housden_score": 0.3787878787878788
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "TCGTCTGGAGAAAGCATTCC",
+    "free energy": -0.7,
+    "off-target": [
+      {
+        "target-sequence": "TCGTCTGGAGAAAGCATTCCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3912787934984532,
+      "Chari_score": 0.5806160684752443,
+      "Housden_score": 0.3787878787878788
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "ATTCCTTTCTGCTTATCTCA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ATTCCTTTCTGCTTATCTCAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.0,
+      "Chari_score": 0.4090434037389691,
+      "Housden_score": 0.4090909090909091
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "TTATCTCAAGGCCCGCTCTG",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "TTATCTCAAGGCCCGCTCTGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4601189178648401,
+      "Chari_score": 0.9518329218641683,
+      "Housden_score": 0.2424242424242423
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "TATCTCAAGGCCCGCTCTGC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "TATCTCAAGGCCCGCTCTGCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3342201705286947,
+      "Chari_score": 0.5143218123575182,
+      "Housden_score": 0.4090909090909091
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CCTGATGCGCTACGCTTATC",
+    "free energy": -1.6,
+    "off-target": [
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTTCGCTTATCAGG",
+        "HsuSupp_score": 0.1064689984838299,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.3187347927688091,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTTCGCTTATCAGG",
+        "HsuSupp_score": 0.1064689984838299,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.3187347927688091,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCACTACGCTTATCAGG",
+        "HsuSupp_score": 0.0403549253053051,
+        "CropIT_score": 0.9736842105263158,
+        "CFD_score": 0.6350364964546148,
+        "CCTop_score": 0.8856222757239128
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTGCGCTTATCAGG",
+        "HsuSupp_score": 0.263708922855829,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7161394969018458,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATACGCTGCGCTTATCAGG",
+        "HsuSupp_score": 2.925401593965469e-05,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.7161394969018458,
+        "CCTop_score": 0.7229263172591938
+      },
+      {
+        "target-sequence": "CCTGATGCGCTATGCTTATCAGG",
+        "HsuSupp_score": 0.0217119488536478,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.6934306568992488,
+        "CCTop_score": 0.762826350941105
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTGCGCTTATCAGG",
+        "HsuSupp_score": 0.263708922855829,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7161394969018458,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCGGATGCGCTTCGCTTATCCGG",
+        "HsuSupp_score": 0.0003298415822009,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.1484184912164858,
+        "CCTop_score": 0.7640504240135526
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTCATCAGG",
+        "HsuSupp_score": 0.2285449185108752,
+        "CropIT_score": 0.7368421052631579,
+        "CFD_score": 0.6994418205495713,
+        "CCTop_score": 0.5081967213114759
+      },
+      {
+        "target-sequence": "CCTGATGCGCGATGCTTATCAGG",
+        "HsuSupp_score": 7.12016662773137e-05,
+        "CropIT_score": 0.2631578947368421,
+        "CFD_score": 0.264233576558197,
+        "CCTop_score": 0.598122427983539
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTGCGCTTATCAGG",
+        "HsuSupp_score": 0.263708922855829,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7161394969018458,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTGCGCTTATCAGG",
+        "HsuSupp_score": 0.263708922855829,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7161394969018458,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCCGATGCGCTGCGCTTATCGGG",
+        "HsuSupp_score": 0.0005053676780377,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.2944038930823285,
+        "CCTop_score": 0.7640504240135526
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTATGTTTATCAGG",
+        "HsuSupp_score": 0.0002842790719551,
+        "CropIT_score": 0.2631578947368421,
+        "CFD_score": 0.0257907543849444,
+        "CCTop_score": 0.4212962962962961
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTCATCAGG",
+        "HsuSupp_score": 0.2285449185108752,
+        "CropIT_score": 0.7368421052631579,
+        "CFD_score": 0.6994418205495713,
+        "CCTop_score": 0.5081967213114759
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCCTGTCAGG",
+        "HsuSupp_score": 9.02324804916026e-05,
+        "CropIT_score": 0.4736842105263157,
+        "CFD_score": 0.2506082725566389,
+        "CCTop_score": 0.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "TCTGATGCGCTGCGCTTATCAGG",
+        "HsuSupp_score": 0.263708922855829,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.7161394969018458,
+        "CCTop_score": 0.775754689369415
+      },
+      {
+        "target-sequence": "CCTGCTGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 0.011792651095094,
+        "CropIT_score": 0.9736842105263158,
+        "CFD_score": 0.4890510948320812,
+        "CCTop_score": 0.9448409894501896
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTGCGCTTATCAGG",
+        "HsuSupp_score": 0.263708922855829,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7161394969018458,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGAAGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 3.4269483982011524e-08,
+        "CropIT_score": 0.9736842105263158,
+        "CFD_score": 0.863746958962521,
+        "CCTop_score": 0.9338091873402272
+      },
+      {
+        "target-sequence": "CCAGATGCGCTACGCTTATCTGG",
+        "HsuSupp_score": 0.0201277900476784,
+        "CropIT_score": 0.9736842105263158,
+        "CFD_score": 0.7080291967549328,
+        "CCTop_score": 0.9616951315626312
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATTCGCTACGCTTATCAGG",
+        "HsuSupp_score": 0.0008372200110642,
+        "CropIT_score": 0.9736842105263158,
+        "CFD_score": 0.5620437951323992,
+        "CCTop_score": 0.9205710248082724
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTTCGCTTATCAGG",
+        "HsuSupp_score": 0.1064689984838299,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.3187347927688091,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTGCGCTTATCAGG",
+        "HsuSupp_score": 0.263708922855829,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7161394969018458,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTATGCTTATCAGG",
+        "HsuSupp_score": 0.0217119488536478,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.6934306568992488,
+        "CCTop_score": 0.762826350941105
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCACTACGTTTATCCGG",
+        "HsuSupp_score": 0.0015851263647197,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.0218978103358374,
+        "CCTop_score": 0.5440922210791039
+      },
+      {
+        "target-sequence": "CCTGATGCGATATGTTTATCAGG",
+        "HsuSupp_score": 5.849030885052731e-06,
+        "CropIT_score": 0.2368421052631578,
+        "CFD_score": 0.0194322791047363,
+        "CCTop_score": 0.2840430271649917
+      },
+      {
+        "target-sequence": "CCTGATGCGCTTCGCTTATCAGG",
+        "HsuSupp_score": 0.1064689984838299,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.3187347927688091,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCGGCGCTTCTCAGG",
+        "HsuSupp_score": 0.0002477807048587,
+        "CropIT_score": 0.0,
+        "CFD_score": 0.0343336034083598,
+        "CCTop_score": 0.0474874350671254
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTCCGCTTATCAGG",
+        "HsuSupp_score": 0.0362557313689448,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.2470226663372507,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCGCTTCGCTTATCAGG",
+        "HsuSupp_score": 0.1064689984838299,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.3187347927688091,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATGCACTTCGCTAATCAGG",
+        "HsuSupp_score": 0.0001866093852437,
+        "CropIT_score": 0.3421052631578947,
+        "CFD_score": 0.094890510681573,
+        "CCTop_score": 0.1961742894863087
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGCGCTACGCTTATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4563506772371684,
+      "Chari_score": 0.4024508311366246,
+      "Housden_score": 0.7272727272727273
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CCTGATAAGCGTAGCGCATC",
+    "free energy": -1.9,
+    "off-target": [
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAACATAGCGCATCAGG",
+        "HsuSupp_score": 0.0001537502562568,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.6350364964546148,
+        "CCTop_score": 0.7209183527663469
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCAGATAAGCGTAGCGCATCTGG",
+        "HsuSupp_score": 0.0201277900476784,
+        "CropIT_score": 0.9736842105263158,
+        "CFD_score": 0.7080291967549328,
+        "CCTop_score": 0.9616951315626312
+      },
+      {
+        "target-sequence": "CCTGATAAGCGCAGCGCATCAGG",
+        "HsuSupp_score": 0.1593007211433324,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.9462159046653824,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATGAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 0.0008339858459605,
+        "CropIT_score": 0.9736842105263158,
+        "CFD_score": 0.6994418205495713,
+        "CCTop_score": 0.9205710248082724
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCATAGCGCATCAGG",
+        "HsuSupp_score": 0.0342895528432686,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 1.0,
+        "CCTop_score": 0.835296077042434
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGCAGCGCATCAGG",
+        "HsuSupp_score": 0.1593007211433324,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.9462159046653824,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGAAGCGCATCAGG",
+        "HsuSupp_score": 0.2213960830490506,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7956204379328325,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCTTCAGG",
+        "HsuSupp_score": 0.4025280487478427,
+        "CropIT_score": 0.7368421052631579,
+        "CFD_score": 0.4890510948320812,
+        "CCTop_score": 0.4098360655737708
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGAAGCGCATCAGG",
+        "HsuSupp_score": 0.2213960830490506,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7956204379328325,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCGGATAAGCGAAGCGCATCCGG",
+        "HsuSupp_score": 0.0006858863692372,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.3868613137984975,
+        "CCTop_score": 0.7640504240135526
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCGGATAAACGTAGTGCATCAGG",
+        "HsuSupp_score": 9.821457520253972e-06,
+        "CropIT_score": 0.5789473684210527,
+        "CFD_score": 0.0,
+        "CCTop_score": 0.5057873526417352
+      },
+      {
+        "target-sequence": "CCTGATAAACATATCGCATCAGG",
+        "HsuSupp_score": 3.3576481992659535e-05,
+        "CropIT_score": 0.2368421052631578,
+        "CFD_score": 0.1532846716939279,
+        "CCTop_score": 0.4363099738956727
+      },
+      {
+        "target-sequence": "CCTGATGAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 0.0008339858459605,
+        "CropIT_score": 0.9736842105263158,
+        "CFD_score": 0.6994418205495713,
+        "CCTop_score": 0.9205710248082724
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCCGATAAGCGCAGCGCATCGGG",
+        "HsuSupp_score": 0.0003052814225819,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.393008067936734,
+        "CCTop_score": 0.7640504240135526
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGCAGCGCATCAGG",
+        "HsuSupp_score": 0.1593007211433324,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.9462159046653824,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCATAGCGCATCAGG",
+        "HsuSupp_score": 0.0342895528432686,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 1.0,
+        "CCTop_score": 0.835296077042434
+      },
+      {
+        "target-sequence": "CCTGACAGGCGTAGCGCATCAGG",
+        "HsuSupp_score": 0.0,
+        "CropIT_score": 0.9473684210526316,
+        "CFD_score": 0.6593673961769283,
+        "CCTop_score": 0.8384944171101545
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGTGCATCAGG",
+        "HsuSupp_score": 0.1178388776616089,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.0462287106938509,
+        "CCTop_score": 0.6584699453551911
+      },
+      {
+        "target-sequence": "CCTGAGAAGCGCCGCGCATCAGG",
+        "HsuSupp_score": 2.2902020632901078e-10,
+        "CropIT_score": 0.2368421052631578,
+        "CFD_score": 0.0945669975129743,
+        "CCTop_score": 0.4989908307322534
+      },
+      {
+        "target-sequence": "CCTGATAAGCGCAGCGCATCAGG",
+        "HsuSupp_score": 0.1593007211433324,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.9462159046653824,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCAGCAGG",
+        "HsuSupp_score": 0.21329794382984,
+        "CropIT_score": 0.7368421052631579,
+        "CFD_score": 0.2335766422481218,
+        "CCTop_score": 0.2918032786885249
+      },
+      {
+        "target-sequence": "CCTGATAAGCGGAGCGCATCAGG",
+        "HsuSupp_score": 0.1783705151537421,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.4890510948320812,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATTAGCGAAGTGCATCAGG",
+        "HsuSupp_score": 1.404735392332178e-05,
+        "CropIT_score": 0.2368421052631578,
+        "CFD_score": 0.0019464720245534,
+        "CCTop_score": 0.3813962626143848
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGAAGCGCATCAGG",
+        "HsuSupp_score": 0.2213960830490506,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7956204379328325,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGCAGCGCATCAGG",
+        "HsuSupp_score": 0.1593007211433324,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.9462159046653824,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGAATCAGG",
+        "HsuSupp_score": 0.2409711324297341,
+        "CropIT_score": 0.7368421052631579,
+        "CFD_score": 0.454987834828186,
+        "CCTop_score": 0.5081967213114759
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCATCGCGCATCAGG",
+        "HsuSupp_score": 0.0001367532573852,
+        "CropIT_score": 0.2631578947368421,
+        "CFD_score": 0.1932385710026331,
+        "CCTop_score": 0.598122427983539
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CTTGATAAGCGAAGCGTATCAGG",
+        "HsuSupp_score": 0.0002661247325165,
+        "CropIT_score": 0.3421052631578947,
+        "CFD_score": 0.3249281133851334,
+        "CCTop_score": 0.2786312900645895
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "ACTGGCAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.8993649430803208e-10,
+        "CropIT_score": 0.9210526315789472,
+        "CFD_score": 0.6469807563625501,
+        "CCTop_score": 0.8520495737089103
+      },
+      {
+        "target-sequence": "CCTGATAAGCGCAGCGCATCAGG",
+        "HsuSupp_score": 0.1593007211433324,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.9462159046653824,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGAAGCGCATCAGG",
+        "HsuSupp_score": 0.2213960830490506,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7956204379328325,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGAAGCGCATCAGG",
+        "HsuSupp_score": 0.2213960830490506,
+        "CropIT_score": 0.631578947368421,
+        "CFD_score": 0.7956204379328325,
+        "CCTop_score": 0.8023552924509207
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CCTGATAAGCGCAGCGTATCAGG",
+        "HsuSupp_score": 0.0094084316940257,
+        "CropIT_score": 0.3684210526315789,
+        "CFD_score": 0.4298885903207697,
+        "CCTop_score": 0.3105520137623965
+      },
+      {
+        "target-sequence": "CCTGATAAGCGTAGCGCATCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5293094937904136,
+      "Chari_score": 0.4561088437381458,
+      "Housden_score": 0.8181818181818182
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GCATCAGGCAATTTTGCTTT",
+    "free energy": -3.2,
+    "off-target": [
+      {
+        "target-sequence": "GCATCGGGCAATTTAGCATTTGG",
+        "HsuSupp_score": 2.3156131091773956e-08,
+        "CropIT_score": 0.3421052631578947,
+        "CFD_score": 0.2598284028632382,
+        "CCTop_score": 0.0021151982691889
+      },
+      {
+        "target-sequence": "GCATCAGGCAATTTTGCTTTTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2488654476723025,
+      "Chari_score": 0.2815648480817679,
+      "Housden_score": 0.5757575757575758
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CGAAAAAAAGACCCGCAGAG",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CGAAAAAAAGACCCGCAGAGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.312075318157358,
+      "Chari_score": 0.8857545330887622,
+      "Housden_score": 0.2272727272727273
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GAAAAAAAGACCCGCAGAGC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GAAAAAAAGACCCGCAGAGCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3215732197713206,
+      "Chari_score": 0.6493608244745386,
+      "Housden_score": 0.2424242424242423
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GGGCCTTGAGATAAGCAGAA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GGGCCTTGAGATAAGCAGAAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5279089246835762,
+      "Chari_score": 0.736681229158871,
+      "Housden_score": 0.1969696969696969
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CGTCGATCGCGTTCAGTTCC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CGTCGATCGCGTTCAGTTCCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.1291936264861677,
+      "Chari_score": 0.0,
+      "Housden_score": 0.6818181818181819
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "AGCGATCATCGAAGTCTGAC",
+    "free energy": -0.2,
+    "off-target": [
+      {
+        "target-sequence": "AGCGATCATCGAAGTCTGACCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3047366741509753,
+      "Chari_score": 0.5587924163255357,
+      "Housden_score": 0.4848484848484849
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CCGGCACGCAGCCATACGCG",
+    "free energy": -4.0,
+    "off-target": [
+      {
+        "target-sequence": "CCGGCACGCAGCCATACGCGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7337387642554101,
+      "Chari_score": 0.8400297373774538,
+      "Housden_score": 0.2727272727272727
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GGATCGTAGTATTTCTTGTT",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GGATCGTAGTATTTCTTGTTCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5261435217186532,
+      "Chari_score": 0.2778524397015295,
+      "Housden_score": 0.6818181818181819
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "TTCGGCTGATCTTCGCCTTT",
+    "free energy": -4.0,
+    "off-target": [
+      {
+        "target-sequence": "TTCGGCTGATCTTCGCCTTTCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3241126466037769,
+      "Chari_score": 0.2427282278996194,
+      "Housden_score": 0.2727272727272727
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "TCGGCTGATCTTCGCCTTTC",
+    "free energy": -4.0,
+    "off-target": [
+      {
+        "target-sequence": "TCGGCTGATCTTCGCCTTTCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8350975677502978,
+      "Chari_score": 0.3620635654332454,
+      "Housden_score": 0.6515151515151515
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GTAGTTCAGAACGCCTTCCC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GTAGTTCAGAACGCCTTCCCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.662384040607892,
+      "Chari_score": 0.5843150974074789,
+      "Housden_score": 0.5303030303030303
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CGCCTTCCCAGGTTGCCCAT",
+    "free energy": -2.5,
+    "off-target": [
+      {
+        "target-sequence": "CGCCTTCCCAGGTTGCCCATTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.558792064975486,
+      "Chari_score": 0.3735973016702812,
+      "Housden_score": 0.4696969696969696
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GCCTTCCCAGGTTGCCCATT",
+    "free energy": -2.0,
+    "off-target": [
+      {
+        "target-sequence": "GCCTTCCCAGGTTGCCCATTGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5265484879648247,
+      "Chari_score": 0.4030872910942399,
+      "Housden_score": 0.2575757575757576
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CCAGGTTGCCCATTGGGTAT",
+    "free energy": -5.0,
+    "off-target": [
+      {
+        "target-sequence": "CCAGGTTGCCCATTGGGTATCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7197640147087101,
+      "Chari_score": 0.3004059040264052,
+      "Housden_score": 0.7727272727272727
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "TTTTACTACGCCGTAGCTTA",
+    "free energy": -1.3,
+    "off-target": [
+      {
+        "target-sequence": "TTTTACTACGCCGTAGCTTACGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4587656105717815,
+      "Chari_score": 0.4325216063522499,
+      "Housden_score": 0.5454545454545454
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "GATTTCCTGAGCAGTAGAAC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GATTTCCTGAGCAGTAGAACCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4161396451216396,
+      "Chari_score": 0.4561059412363178,
+      "Housden_score": 0.4242424242424242
+    }
+  },
+  {
+    "Gene": "fbaA",
+    "spacer": "CAGTAGAACCGGAACCACCG",
+    "free energy": -1.4,
+    "off-target": [
+      {
+        "target-sequence": "CAGTAGAACCGGAACCACCGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5983448975202069,
+      "Chari_score": 0.8092498713170588,
+      "Housden_score": 0.4393939393939394
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "TTTATCAGTGGTGAAAGTAA",
+    "free energy": -1.0,
+    "off-target": [
+      {
+        "target-sequence": "ATTATCAGTGGTCTAAGTAAAGG",
+        "HsuSupp_score": 0.0004431559378682,
+        "CropIT_score": 0.2368421052631578,
+        "CFD_score": 0.2075809962817735,
+        "CCTop_score": 0.4516173689889251
+      },
+      {
+        "target-sequence": "TTTATCAGTGGTGAAAGTAAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5448375090525189,
+      "Chari_score": 0.4584910640732505,
+      "Housden_score": 0.3787878787878788
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GTTACCGCCTTCCAGTTTCA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GTTACCGCCTTCCAGTTTCATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.1773033361860151,
+      "Chari_score": 0.5287557328431187,
+      "Housden_score": 0.3484848484848484
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "CGCCTTCCAGTTTCATGGTG",
+    "free energy": -2.6,
+    "off-target": [
+      {
+        "target-sequence": "CGCCTTCCAGTTTCATGGTGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5933809018102016,
+      "Chari_score": 0.2786549090954116,
+      "Housden_score": 0.106060606060606
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "AGTTTCATGGTGCGGATTTC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "AGTTTCATGGTGCGGATTTCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4024998458432596,
+      "Chari_score": 0.3249416524771044,
+      "Housden_score": 0.5454545454545454
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GGTGCGGATTTCCGGACCTT",
+    "free energy": -9.7,
+    "off-target": [
+      {
+        "target-sequence": "GGTGCGGATTTCCGGACCTTTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7400946067754307,
+      "Chari_score": 0.6245899452351774,
+      "Housden_score": 0.3787878787878788
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "CCGGACCTTTGGTATCAAGC",
+    "free energy": -0.7,
+    "off-target": [
+      {
+        "target-sequence": "CCGGACCTTTGGTATCAAGCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3943610960320047,
+      "Chari_score": 0.4320702351573213,
+      "Housden_score": 0.1212121212121211
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "TTTGGTATCAAGCAGGATAG",
+    "free energy": -1.1,
+    "off-target": [
+      {
+        "target-sequence": "TTTGGTATCAAGCAGGATAGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6273109789144296,
+      "Chari_score": 0.6243785188814578,
+      "Housden_score": 0.4090909090909091
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GGTATCAAGCAGGATAGCGG",
+    "free energy": -3.9,
+    "off-target": [
+      {
+        "target-sequence": "GGTATCAAGCAGGATAGCGGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5581031269740735,
+      "Chari_score": 0.8013035489476783,
+      "Housden_score": 0.8181818181818182
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "AGCTAACATCTCTTCAGATT",
+    "free energy": -0.2,
+    "off-target": [
+      {
+        "target-sequence": "AGCTAACATCTCTTCAGATTCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4279380813931502,
+      "Chari_score": 0.2194558315603415,
+      "Housden_score": 0.7727272727272727
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "ATCTCTTCAGATTCGGTTTT",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ATCTCTTCAGATTCGGTTTTCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2185725311757866,
+      "Chari_score": 0.0629506013485296,
+      "Housden_score": 0.303030303030303
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "AGATTCGGTTTTCGGTCCGA",
+    "free energy": -3.9,
+    "off-target": [
+      {
+        "target-sequence": "AGATTCGGTTTTCGGTCCGATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7339602582954159,
+      "Chari_score": 0.5253856247044232,
+      "Housden_score": 0.3181818181818181
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "TCCGATGGTGCAAACAATTT",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "TCCGATGGTGCAAACAATTTTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3670086090197915,
+      "Chari_score": 0.4431365741280474,
+      "Housden_score": 0.1363636363636363
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "TCTTAGTCTTTAAGTTGAGA",
+    "free energy": -1.8,
+    "off-target": [
+      {
+        "target-sequence": "TCTTAGTCTTTAAGTTGAGAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.139199518596116,
+      "Chari_score": 0.3888733275840749,
+      "Housden_score": 0.0
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "AGTCTTTAAGTTGAGAAGGA",
+    "free energy": -1.6,
+    "off-target": [
+      {
+        "target-sequence": "AGTCTTTAAGTTGAGAAGGATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4736642160813365,
+      "Chari_score": 0.5807716246838404,
+      "Housden_score": 0.2575757575757576
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GTCTTTAAGTTGAGAAGGAT",
+    "free energy": -1.9,
+    "off-target": [
+      {
+        "target-sequence": "GTCTTTAAGTTGAGAAGGATGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5272475141500518,
+      "Chari_score": 0.3370498288006331,
+      "Housden_score": 0.2575757575757576
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GATGGGAGAAACTTGCTTTC",
+    "free energy": -0.7,
+    "off-target": [
+      {
+        "target-sequence": "GATGGGAGAAACTTGCTTTCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.1230645092604178,
+      "Chari_score": 0.5605756262127594,
+      "Housden_score": 0.6515151515151515
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "ATGGGAGAAACTTGCTTTCT",
+    "free energy": -1.9,
+    "off-target": [
+      {
+        "target-sequence": "ATGGGAGAAACTTGCTTTCTGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4520301762426685,
+      "Chari_score": 0.1960787320907195,
+      "Housden_score": 0.3484848484848484
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "TTGCTTTCTGGGCGCACTGC",
+    "free energy": -1.7,
+    "off-target": [
+      {
+        "target-sequence": "TTGCTTTCTGGGCGCACTGCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6504454728262331,
+      "Chari_score": 0.2452721380889767,
+      "Housden_score": 0.1515151515151515
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GCACTGCCGGAAAGCGAATC",
+    "free energy": -0.9,
+    "off-target": [
+      {
+        "target-sequence": "GCACTGCCGGAAAGCGAATCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5781867483544784,
+      "Chari_score": 0.5266467758189598,
+      "Housden_score": 0.3484848484848484
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "CGAATCCGGTATTACGAAAG",
+    "free energy": -1.0,
+    "off-target": [
+      {
+        "target-sequence": "CGAATCCGGTATTACGAAAGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4365700119810722,
+      "Chari_score": 0.5565830807781534,
+      "Housden_score": 0.5454545454545454
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "ATCCGGTATTACGAAAGTGG",
+    "free energy": -1.0,
+    "off-target": [
+      {
+        "target-sequence": "ATCCGGTATTACGAAAGTGGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6379280370929351,
+      "Chari_score": 0.5331781285472231,
+      "Housden_score": 0.303030303030303
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "CACCACCACTTTCGTAATAC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CACCACCACTTTCGTAATACCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2060210199468694,
+      "Chari_score": 0.2562585095162663,
+      "Housden_score": 0.1818181818181818
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GTAATACCGGATTCGCTTTC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GTAATACCGGATTCGCTTTCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4695690970597891,
+      "Chari_score": 0.2921450501570004,
+      "Housden_score": 0.4545454545454546
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "ACCAAAATTGTTTGCACCAT",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ACCAAAATTGTTTGCACCATCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6654442287806078,
+      "Chari_score": 0.2898116517518809,
+      "Housden_score": 0.2121212121212121
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "AGAGATGTTAGCTAAAATGC",
+    "free energy": -0.3,
+    "off-target": [
+      {
+        "target-sequence": "AGAGATGTTAGCTAAAATGCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.0883904803681726,
+      "Chari_score": 0.3764178560626027,
+      "Housden_score": 0.1212121212121211
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "TTAGCTAAAATGCTGGACGC",
+    "free energy": -4.0,
+    "off-target": [
+      {
+        "target-sequence": "TTAGCTAAAATGCTGGACGCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2492511295586766,
+      "Chari_score": 0.6035757737097013,
+      "Housden_score": 0.3939393939393939
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "ATGCGTCTGAACTTCTCTCA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ATGCGTCTGAACTTCTCTCATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6727920291411951,
+      "Chari_score": 0.3623839662582956,
+      "Housden_score": 0.7272727272727273
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "CATGGTGACTATGCAGAACA",
+    "free energy": -1.3,
+    "off-target": [
+      {
+        "target-sequence": "CATGGTGACTATGCAGAACACGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7602066343576298,
+      "Chari_score": 0.4411745291233496,
+      "Housden_score": 0.4393939393939394
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "CGCAACGTGATGAGCAAAAC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CGCAACGTGATGAGCAAAACTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3603777055311019,
+      "Chari_score": 0.3399312854802708,
+      "Housden_score": 0.3939393939393939
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GCTATCCTGCTTGATACCAA",
+    "free energy": -1.3,
+    "off-target": [
+      {
+        "target-sequence": "GCTATCCTGCTTGATACCAAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6304275759633803,
+      "Chari_score": 0.6528853822932595,
+      "Housden_score": 0.8181818181818182
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "CCTGCTTGATACCAAAGGTC",
+    "free energy": -1.2,
+    "off-target": [
+      {
+        "target-sequence": "CCTGCTTGATACCAAAGGTCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6717062790663971,
+      "Chari_score": 0.4586339077660497,
+      "Housden_score": 0.2575757575757576
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "GGAAATCCGCACCATGAAAC",
+    "free energy": -0.9,
+    "off-target": [
+      {
+        "target-sequence": "GGAAATCCGCACCATGAAACTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.249464802601441,
+      "Chari_score": 0.471302855884915,
+      "Housden_score": 0.6060606060606061
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "ATCCGCACCATGAAACTGGA",
+    "free energy": -1.4,
+    "off-target": [
+      {
+        "target-sequence": "ATCCGCACCATGAAACTGGAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3887822573759206,
+      "Chari_score": 0.5549836089048434,
+      "Housden_score": 0.1363636363636363
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "CGCACCATGAAACTGGAAGG",
+    "free energy": -1.4,
+    "off-target": [
+      {
+        "target-sequence": "CGCACCATGAAACTGGAAGGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6053945177150858,
+      "Chari_score": 0.8203050465099787,
+      "Housden_score": 0.7121212121212122
+    }
+  },
+  {
+    "Gene": "pykF",
+    "spacer": "AACGACGTTTCTCTGAAAGC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "AACGACGTTTCTCTGAAAGCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.112162901910887,
+      "Chari_score": 0.4138795546967224,
+      "Housden_score": 0.5151515151515152
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CATGTACGTGTAAATTCTGC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CATGTACGTGTAAATTCTGCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.0866508805881406,
+      "Chari_score": 0.4177943844388596,
+      "Housden_score": 0.2121212121212121
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ATGTACGTGTAAATTCTGCC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ATGTACGTGTAAATTCTGCCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.252855868601958,
+      "Chari_score": 0.4800530808087062,
+      "Housden_score": 0.7424242424242425
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ATTCTGCCGGGTCCAGTCTT",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ATTCTGCCGGGTCCAGTCTTTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6021372568715514,
+      "Chari_score": 0.2759311603752059,
+      "Housden_score": 0.4090909090909091
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TTTGGCTTCTACAGTAGCGA",
+    "free energy": -2.5,
+    "off-target": [
+      {
+        "target-sequence": "TTTGGCTTCTACAGTAGCGACGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2966658058702594,
+      "Chari_score": 0.4499053330134417,
+      "Housden_score": 0.303030303030303
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TTGGCTTCTACAGTAGCGAC",
+    "free energy": -2.5,
+    "off-target": [
+      {
+        "target-sequence": "TTGGCTTCTACAGTAGCGACGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7117719523996905,
+      "Chari_score": 0.3934744502653498,
+      "Housden_score": 0.4848484848484849
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TGGCTTCTACAGTAGCGACG",
+    "free energy": -2.5,
+    "off-target": [
+      {
+        "target-sequence": "TGGCTTCTACAGTAGCGACGGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5974201614960535,
+      "Chari_score": 0.6556614705183804,
+      "Housden_score": 0.5757575757575758
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CATCCGCCAACAGTGAAACC",
+    "free energy": -0.7,
+    "off-target": [
+      {
+        "target-sequence": "CATCCGCCAACAGTGAAACCAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.41700158883851,
+      "Chari_score": 0.6981119667818716,
+      "Housden_score": 0.5454545454545454
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CAGTGAAACCAGGTGTTCGC",
+    "free energy": -2.2,
+    "off-target": [
+      {
+        "target-sequence": "CAGTGAAACCAGGTGTTCGCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4365909927486215,
+      "Chari_score": 0.4384934897929222,
+      "Housden_score": 1.0
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TCGCCGGTCGCGCCACCCGC",
+    "free energy": -3.4,
+    "off-target": [
+      {
+        "target-sequence": "TCGCCGGTCGCGCCACCCGCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8289721154555364,
+      "Chari_score": 0.6137501461301128,
+      "Housden_score": 0.1212121212121211
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CGCCGGTCGCGCCACCCGCC",
+    "free energy": -4.2,
+    "off-target": [
+      {
+        "target-sequence": "CGCCGGTCGCGCCACCCGCCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      },
+      {
+        "target-sequence": "CGCCGGTAGCCCCACCCGCCAGG",
+        "HsuSupp_score": 1.2240293105796696e-08,
+        "CropIT_score": 0.6052631578947368,
+        "CFD_score": 0.2627737228281031,
+        "CCTop_score": 0.7399813068123614
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7296211751318081,
+      "Chari_score": 0.4734656900967442,
+      "Housden_score": 0.6515151515151515
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ACCCGCCGGGAAGATCGCTG",
+    "free energy": -2.3,
+    "off-target": [
+      {
+        "target-sequence": "ACCCGCCGGGAAGATCGCTGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4935848721439646,
+      "Chari_score": 0.8305788175577402,
+      "Housden_score": 0.5
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CTGTGGCACTGCCTCCAAGA",
+    "free energy": -2.5,
+    "off-target": [
+      {
+        "target-sequence": "CTGTGGCACTGCCTCCAAGATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5857369283015282,
+      "Chari_score": 0.6511856920971387,
+      "Housden_score": 0.4848484848484849
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TGTGGCACTGCCTCCAAGAT",
+    "free energy": -2.5,
+    "off-target": [
+      {
+        "target-sequence": "TGTGGCACTGCCTCCAAGATGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7481746526486326,
+      "Chari_score": 0.3476900105535288,
+      "Housden_score": 0.2878787878787879
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ACTGCCTCCAAGATGGGCAA",
+    "free energy": -5.4,
+    "off-target": [
+      {
+        "target-sequence": "ACTGCCTCCAAGATGGGCAATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5530822312525684,
+      "Chari_score": 0.4646489870268621,
+      "Housden_score": 0.5909090909090909
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CTCCAAGATGGGCAATGGCG",
+    "free energy": -1.8,
+    "off-target": [
+      {
+        "target-sequence": "CTCCAAGATGGGCAATGGCGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5510764919095806,
+      "Chari_score": 0.5559747103648903,
+      "Housden_score": 0.0909090909090909
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TCCAAGATGGGCAATGGCGC",
+    "free energy": -1.8,
+    "off-target": [
+      {
+        "target-sequence": "TCCAAGATGGGCAATGGCGCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3781517434185558,
+      "Chari_score": 0.5012359833684233,
+      "Housden_score": 0.2272727272727273
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GACGTTGATGCCGCCGCCCC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GACGTTGATGCCGCCGCCCCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7703137481182318,
+      "Chari_score": 0.5433552265856947,
+      "Housden_score": 0.3181818181818181
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ACGTTGATGCCGCCGCCCCC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ACGTTGATGCCGCCGCCCCCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8182671878686129,
+      "Chari_score": 0.5885695357428226,
+      "Housden_score": 0.6363636363636365
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CCGCCCCCGGGTTCGAACAC",
+    "free energy": -2.1,
+    "off-target": [
+      {
+        "target-sequence": "CCGCCCCCGGGTTCGAACACCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8294438296389605,
+      "Chari_score": 0.3808728787817146,
+      "Housden_score": 0.3939393939393939
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CCCGGGTTCGAACACCGGTG",
+    "free energy": -6.3,
+    "off-target": [
+      {
+        "target-sequence": "CCCGGGTTCGAACACCGGTGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8066387892626904,
+      "Chari_score": 0.6973000019457215,
+      "Housden_score": 0.2727272727272727
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GGTACAGCGCAGTTTTCCTT",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GGTACAGCGCAGTTTTCCTTCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5230514668316166,
+      "Chari_score": 0.3274701657384825,
+      "Housden_score": 0.9545454545454548
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GTACAGCGCAGTTTTCCTTC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GTACAGCGCAGTTTTCCTTCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2161067905617405,
+      "Chari_score": 0.4635547056469178,
+      "Housden_score": 0.4242424242424242
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TTTCCTTCGGGATAAATTTG",
+    "free energy": -2.3,
+    "off-target": [
+      {
+        "target-sequence": "TTTCCTTCGGGATAAATTTGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4276002506828725,
+      "Chari_score": 0.5494388800652477,
+      "Housden_score": 0.2727272727272727
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TTCCTTCGGGATAAATTTGC",
+    "free energy": -2.3,
+    "off-target": [
+      {
+        "target-sequence": "TTCCTTCGGGATAAATTTGCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2540848443390714,
+      "Chari_score": 0.3047948727184607,
+      "Housden_score": 0.3787878787878788
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TCCTTCGGGATAAATTTGCG",
+    "free energy": -2.1,
+    "off-target": [
+      {
+        "target-sequence": "TCCTTCGGGATAAATTTGCGGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3311407086153226,
+      "Chari_score": 0.699882259731944,
+      "Housden_score": 0.3333333333333333
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "AATTGTTGCGCTATCGAGAG",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "AATTGTTGCGCTATCGAGAGAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.667172537759123,
+      "Chari_score": 0.6633077698767909,
+      "Housden_score": 0.5303030303030303
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ATTGTTGCGCTATCGAGAGA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ATTGTTGCGCTATCGAGAGAGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3989011451089483,
+      "Chari_score": 0.4848621263390704,
+      "Housden_score": 0.6666666666666667
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GTACCATCATTTCCTCCTAT",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GTACCATCATTTCCTCCTATAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2886094008593917,
+      "Chari_score": 0.2928470978117388,
+      "Housden_score": 0.106060606060606
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CCTATAGGCTGATTTCAGTC",
+    "free energy": -4.3,
+    "off-target": [
+      {
+        "target-sequence": "CCTATAGGCTGATTTCAGTCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.383505405847542,
+      "Chari_score": 0.4840760588945761,
+      "Housden_score": 0.4393939393939394
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TCAGTCTGGCACCGAATCAG",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "TCAGTCTGGCACCGAATCAGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6960427309661875,
+      "Chari_score": 0.7266961625709767,
+      "Housden_score": 0.6969696969696969
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "AAATTAACAATATGATTTAT",
+    "free energy": -0.3,
+    "off-target": [
+      {
+        "target-sequence": "AAATTAACAATATGATTTATTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.0603270936438609,
+      "Chari_score": 0.1816378005757727,
+      "Housden_score": 0.0909090909090909
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TTCTTCACTTTCCGCTGATT",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "TTCTTCACTTTCCGCTGATTCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2903934882026536,
+      "Chari_score": 0.0911320649587949,
+      "Housden_score": 0.2272727272727273
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CCAGACTGAAATCAGCCTAT",
+    "free energy": -2.0,
+    "off-target": [
+      {
+        "target-sequence": "CCAGACTGAAATCAGCCTATAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4312889008498172,
+      "Chari_score": 0.5060329304510712,
+      "Housden_score": 0.3484848484848484
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GACTGAAATCAGCCTATAGG",
+    "free energy": -1.2,
+    "off-target": [
+      {
+        "target-sequence": "GACTGAAATCAGCCTATAGGAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4143472894498275,
+      "Chari_score": 0.7271044947291049,
+      "Housden_score": 0.5
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CAGCCTATAGGAGGAAATGA",
+    "free energy": -1.5,
+    "off-target": [
+      {
+        "target-sequence": "CAGCCTATAGGAGGAAATGATGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5053832593019486,
+      "Chari_score": 0.6284742243365372,
+      "Housden_score": 0.1515151515151515
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ACCCCGCAAATTTATCCCGA",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ACCCCGCAAATTTATCCCGAAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2857475848748572,
+      "Chari_score": 0.7154485760293872,
+      "Housden_score": 0.0606060606060605
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "AAAACTGCGCTGTACCGCAC",
+    "free energy": -3.4,
+    "off-target": [
+      {
+        "target-sequence": "AAAACTGCGCTGTACCGCACCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8238874544479675,
+      "Chari_score": 0.4190570893164938,
+      "Housden_score": 0.5909090909090909
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ACCGCACCGGTGTTCGAACC",
+    "free energy": -2.7,
+    "off-target": [
+      {
+        "target-sequence": "ACCGCACCGGTGTTCGAACCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7256257406402755,
+      "Chari_score": 0.2847874090274721,
+      "Housden_score": 0.5454545454545454
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CCGCACCGGTGTTCGAACCC",
+    "free energy": -2.7,
+    "off-target": [
+      {
+        "target-sequence": "CCGCACCGGTGTTCGAACCCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5231453825133604,
+      "Chari_score": 0.4511088079593837,
+      "Housden_score": 0.3787878787878788
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CGCACCGGTGTTCGAACCCG",
+    "free energy": -2.7,
+    "off-target": [
+      {
+        "target-sequence": "CGCACCGGTGTTCGAACCCGGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8666895011822382,
+      "Chari_score": 0.7303617550439613,
+      "Housden_score": 0.2878787878787879
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GCACCGGTGTTCGAACCCGG",
+    "free energy": -5.8,
+    "off-target": [
+      {
+        "target-sequence": "GCACCGGTGTTCGAACCCGGGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8973059961746086,
+      "Chari_score": 1.0,
+      "Housden_score": 0.3939393939393939
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CCGGTGTTCGAACCCGGGGG",
+    "free energy": -6.6,
+    "off-target": [
+      {
+        "target-sequence": "CCGGTGTTCGAACCCGGGGGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 1.0,
+      "Chari_score": 0.6064031441572156,
+      "Housden_score": 0.2727272727272727
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GTGTTCGAACCCGGGGGCGG",
+    "free energy": -5.2,
+    "off-target": [
+      {
+        "target-sequence": "GTGTTCGAACCCGGGGGCGGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.9561311782682512,
+      "Chari_score": 0.7974775731482722,
+      "Housden_score": 0.6969696969696969
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GCCCGCGCCATTGCCCATCT",
+    "free energy": -0.6,
+    "off-target": [
+      {
+        "target-sequence": "GCCCGCGCCATTGCCCATCTTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5239077970051512,
+      "Chari_score": 0.2904602925689681,
+      "Housden_score": 0.3484848484848484
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CGCGCCATTGCCCATCTTGG",
+    "free energy": -0.6,
+    "off-target": [
+      {
+        "target-sequence": "CGCGCCATTGCCCATCTTGGAGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.5646909778109416,
+      "Chari_score": 0.7245149485276275,
+      "Housden_score": 0.2272727272727273
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CAGTGCCACAGCGATCTTCC",
+    "free energy": -0.5,
+    "off-target": [
+      {
+        "target-sequence": "CAGTGCCACAGCGATCTTCCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.3676432832114221,
+      "Chari_score": 0.4605515830856023,
+      "Housden_score": 0.4090909090909091
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TGCCACAGCGATCTTCCCGG",
+    "free energy": -0.5,
+    "off-target": [
+      {
+        "target-sequence": "TGCCACAGCGATCTTCCCGGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7467499475620188,
+      "Chari_score": 0.7723667715480209,
+      "Housden_score": 0.5151515151515152
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GCCACAGCGATCTTCCCGGC",
+    "free energy": -1.3,
+    "off-target": [
+      {
+        "target-sequence": "GCCACAGCGATCTTCCCGGCGGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.613962401609711,
+      "Chari_score": 0.5624858159318566,
+      "Housden_score": 0.5757575757575758
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ACAGCGATCTTCCCGGCGGG",
+    "free energy": -1.3,
+    "off-target": [
+      {
+        "target-sequence": "ACAGCGATCTTCCCGGCGGGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.7729602198727096,
+      "Chari_score": 0.8335069072307351,
+      "Housden_score": 0.3181818181818181
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TTCCCGGCGGGTGGCGCGAC",
+    "free energy": -3.9,
+    "off-target": [
+      {
+        "target-sequence": "TTCCCGGCGGGTGGCGCGACCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.9646394290499988,
+      "Chari_score": 0.3623143383751103,
+      "Housden_score": 0.5909090909090909
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TGGCGCGACCGGCGAACACC",
+    "free energy": -3.8,
+    "off-target": [
+      {
+        "target-sequence": "TGGCGCGACCGGCGAACACCTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.4213543560925052,
+      "Chari_score": 0.4748909893478987,
+      "Housden_score": 0.6212121212121212
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CGAACACCTGGTTTCACTGT",
+    "free energy": -0.2,
+    "off-target": [
+      {
+        "target-sequence": "CGAACACCTGGTTTCACTGTTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2840821093527959,
+      "Chari_score": 0.2657095700389771,
+      "Housden_score": 0.5454545454545454
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "ACACCTGGTTTCACTGTTGG",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "ACACCTGGTTTCACTGTTGGCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.8700748288645145,
+      "Chari_score": 0.6245346368970213,
+      "Housden_score": 0.2272727272727273
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "CTACTGTAGAAGCCAAAGAC",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "CTACTGTAGAAGCCAAAGACTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2487311261595959,
+      "Chari_score": 0.3726211123158861,
+      "Housden_score": 0.2272727272727273
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "TAGAAGCCAAAGACTGGACC",
+    "free energy": -1.5,
+    "off-target": [
+      {
+        "target-sequence": "TAGAAGCCAAAGACTGGACCCGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.6277428460991781,
+      "Chari_score": 0.2903303433008408,
+      "Housden_score": 0.1515151515151515
+    }
+  },
+  {
+    "Gene": "pfkB",
+    "spacer": "GCAGAATTTACACGTACATG",
+    "free energy": 0.0,
+    "off-target": [
+      {
+        "target-sequence": "GCAGAATTTACACGTACATGTGG",
+        "HsuSupp_score": 1.0,
+        "CropIT_score": 1.0,
+        "CFD_score": 1.0,
+        "CCTop_score": 1.0
+      }
+    ],
+    "efficiency": {
+      "CrisprScan_score": 0.2582893166183844,
+      "Chari_score": 0.7398974343491876,
+      "Housden_score": 0.0454545454545454
+    }
+  }
+]
