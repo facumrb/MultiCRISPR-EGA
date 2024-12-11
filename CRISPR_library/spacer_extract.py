@@ -20,16 +20,15 @@ def reverse_complement(sequence):
 def get_gene_Info(gene_spacer_file):
     geneInfoList = []
     with open(gene_spacer_file, newline='') as csvfile:
-        with open(gene_spacer_file, 'r') as file:
-            reader = csv.DictReader(file)  
-            for row in reader:
-                gene_dict = {}
-                find_in_neg = 'coding' if row['Binds to coding strand(0/1)'] == '1' else ''
-                find_in_pos = 'non-coding' if row['Binds to non-coding strand(0/1)'] == '1' else ''
-                gene_dict['geneName'] = row['Gene Name']
-                gene_dict['geneSequence'] = row['Sequence']  
-                gene_dict['option'] = [find_in_neg,find_in_pos]
-                geneInfoList.append(gene_dict)
+        reader = csv.DictReader(csvfile)  
+        for row in reader:
+            gene_dict = {}
+            find_in_neg = 'coding' if row['Binds to coding strand(0/1)'] == '1' else ''
+            find_in_pos = 'non-coding' if row['Binds to non-coding strand(0/1)'] == '1' else ''
+            gene_dict['geneName'] = row['Gene Name']
+            gene_dict['geneSequence'] = row['Sequence']  
+            gene_dict['option'] = [find_in_neg,find_in_pos]
+            geneInfoList.append(gene_dict)
     return geneInfoList
 
 

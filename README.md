@@ -42,7 +42,7 @@ Once you have the '**your_dataset_file.csv file**', use the following command to
 ```
 cd CRISPR_library
 
-python spacer_extract.py --geneInfoFile [Gene_Info/../your_dataset_file.csv] --PAM [PAM sequences] --pamPosition [before|after] --targetLength [target length] --outputFile [Gene_Info/../your_spacer_file.csv]
+python spacer_extract.py --geneInfoFile [Gene_Info/../your_dataset_file.csv] --PAM [PAM sequences] --pamPosition [before|after] --targetLength [target length] --outputFile [Gene_Info/..]
 ```
 
 ## Run the Application
@@ -103,3 +103,14 @@ Final: Running EGA
 python MultiCRIPSR_EGA_CLI.py --insulatorSeq 'AGCUGUCACCGGAUGTGCUUUCCGGUCUGAUGAGUCCGUGAGGACGAAACAGCCUCUACAAAUAAUUUUGUUUAA' --repeatSeq 'GUGUCAUAGCCCAGCUUGGCGGGCGAAGGCCAAGAC' --geneSpacerFile [Gene_Info/../spacer_cleaned.csv] --populationSize 100 --maxIterations 10 --crossover 0.7 --mutation 0.1 --tournamentSize 4
 ```
 
+Optional: Further screening CRISPR arrays using kinetic and thermodynamic models (for Cas9)
+``` 
+cd kinetic
+
+python CalKaKclv.py --spacer_file '../../Gene_Info/Gene_Info8/spacer_cleaned.csv' --output_file '../../Gene_Info/Gene_Info8/ka_kclv_mismatch_score.csv'  
+```
+
+``` 
+cd Thermodynamics
+python CalThermodynamicsPara.py --spacer_file '../../Gene_Info/Gene_Info8/spacer_cleaned.csv' --output_fasta './seq.fa' --guide_params_csv '../../Gene_Info/Gene_Info8/Thermodynamics.csv'
+``` 

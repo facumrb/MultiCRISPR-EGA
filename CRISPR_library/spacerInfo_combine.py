@@ -26,14 +26,15 @@ def get_combine_info(spacer_file,off_target_score_file,eff_score_file,energy_fil
 
 
 def create_json_from_df(df):  
-   
-    # 使用defaultdict来组织数据  
+    
     data_dict = defaultdict(lambda: {  
         "Gene": "NaN",  
         "spacer": "NaN",  
         "free energy": "NaN",  
         "off-target": [],  
-        "efficiency": {}  
+        "efficiency": {},
+        "PAM":  "NaN",
+        "Target_strand":"NaN",
     })  
     
     for _, row in df.iterrows():  
@@ -43,11 +44,13 @@ def create_json_from_df(df):
         data_dict[spacer]["Gene"] = row['geneName']  
         data_dict[spacer]["spacer"] = spacer  
         data_dict[spacer]["free energy"] = row['free_energy']  
+        data_dict[spacer]["PAM"] =  row['PAM']
+        data_dict[spacer]["Target_strand"] =  row['target_strand']
+
         
         # 添加off-target信息  
         off_target = {  
             "target-sequence": str(row['Off-target']),  
-            # "miss matches" :
             "HsuSupp_score": str(row['normalized_HsuSupp_score']),  
             "CropIT_score": str(row['normalized_CropIT_score']),  
             "CFD_score": str(row['normalized_CFD_score'])  ,
