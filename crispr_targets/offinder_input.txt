@@ -1,4 +1,4 @@
-c:\Bio_info\MultiCRISPR-EGA_v2\Gene_Info/ecoli_mg1655_genome.fasta
+c:\Bio_info\MultiCRISPR-EGA_final\Gene_Info/ecoli_mg1655_genome.fasta
 NNNNNNNNNNNNNNNNNNNNNGG 3 2
 GTGACGTTCGTTCAGTTTCCAGG 2
 CAGTTTCCAGGATTTCTCAACGG 2
